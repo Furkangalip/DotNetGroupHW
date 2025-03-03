@@ -1,0 +1,14 @@
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/bin/Debug/net8.0/DotnewHomework
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/bin/Debug/net8.0/DotnewHomework.deps.json
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/bin/Debug/net8.0/DotnewHomework.runtimeconfig.json
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/bin/Debug/net8.0/DotnewHomework.dll
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/bin/Debug/net8.0/DotnewHomework.pdb
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/DotnewHomework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/DotnewHomework.AssemblyInfoInputs.cache
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/DotnewHomework.AssemblyInfo.cs
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/DotnewHomework.csproj.CoreCompileInputs.cache
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/DotnewHomework.dll
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/refint/DotnewHomework.dll
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/DotnewHomework.pdb
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/DotnewHomework.genruntimeconfig.cache
+/Users/furkangalip/RiderProjects/DotnewHomework/DotnewHomework/obj/Debug/net8.0/ref/DotnewHomework.dll
